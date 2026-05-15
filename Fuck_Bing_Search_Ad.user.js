@@ -5,7 +5,7 @@
 // @version      1.0.0
 // @description  Remove Bing search ads, fake ad blocks, MSAN ads, and leftover separators.
 // @description:zh-CN 删除 Bing 搜索广告、伪装广告、MSAN 广告和广告残留分隔线。
-// @author       CX330-YCH & AI Assisted
+// @author       CX330-YCH
 // @license      MIT
 // @match        https://www.bing.com/search*
 // @match        https://cn.bing.com/search*
