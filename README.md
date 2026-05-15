@@ -97,13 +97,7 @@ https://bing.com/search*
 
 ### 方式二：从 Greasy Fork 安装
 
-发布到 Greasy Fork 后，将链接填写到这里：
-
-```text
-https://greasyfork.org/scripts/你的脚本地址
-```
-
-Greasy Fork 会读取用户脚本头部元数据，例如 `@name`、`@version`、`@description`、`@license` 等。发布到 Greasy Fork 的代码应保持可读，不建议压缩或混淆。
+- Greasy Fork：[Fuck_Bing_Search_Ad](https://greasyfork.org/scripts/578285-bing-search-ad)
 
 ---
 
