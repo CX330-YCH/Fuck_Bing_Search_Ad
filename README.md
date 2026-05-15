@@ -96,8 +96,6 @@ https://raw.githubusercontent.com/CX330-YCH/Fuck_Bing_Search_Ad/main/Fuck_Bing_S
 
 浏览器会唤起用户脚本管理器，确认安装即可。
 
-> 注意：仓库中的脚本文件名建议保持为 `Fuck_Bing_Search_Ad.user.js`。  
-> 如果文件名不一致，`@updateURL` 和 `@downloadURL` 的自动更新地址可能失效。
 
 ### 方式二：从 Greasy Fork 安装
 
