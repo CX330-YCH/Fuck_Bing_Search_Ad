@@ -1,11 +1,18 @@
 # Fuck_Bing_Search_Ad
-**AI 项目声明 / AI Project Notice**  
-本项目由用户提出需求、提供真实页面截图与测试反馈，主要代码、规则设计、文档整理和版本迭代由 AI 辅助生成。  
-This project was developed from user-provided requirements, real-world Bing page samples, testing feedback, and AI-assisted code/documentation generation.
-**性能影响提示 / Performance Notice**  
-本脚本会对 Bing 搜索页面进行 DOM 扫描、广告结构判断、样式读取、MutationObserver 监听和动态清理。  
-在低性能设备、结果页广告较多、频繁翻页、开启 Log 面板时，可能造成页面短暂卡顿、广告短暂闪现后消失、搜索结果加载略慢等现象。  
-日常使用建议保持“性能优化”开启，并关闭 Log 面板。
+
+> **AI 项目声明 / AI Project Notice**  
+
+> 本项目由用户提出需求、提供真实页面截图与测试反馈，主要代码、规则设计、文档整理和版本迭代由 AI 辅助生成。  
+
+> This project was developed from user-provided requirements, real-world Bing page samples, testing feedback, and AI-assisted code/documentation generation.
+
+> **性能影响提示 / Performance Notice**  
+
+> 本脚本会对 Bing 搜索页面进行 DOM 扫描、广告结构判断、样式读取、MutationObserver 监听和动态清理。  
+
+> 在低性能设备、结果页广告较多、频繁翻页、开启 Log 面板时，可能造成页面短暂卡顿、广告短暂闪现后消失、搜索结果加载略慢等现象。  
+
+> 日常使用建议保持“性能优化”开启，并关闭 Log 面板。
 
 Fuck_Bing_Search_Ad 是一个用于过滤 Bing 搜索结果广告的 Tampermonkey / 油猴用户脚本。
 它主要用于清理 Bing 搜索页中的广告结果、伪装广告、MSAN 嵌入式广告、`p::before` 广告标识、`initLinks aclick` 伪装跳转广告，以及广告删除后残留的横线和空白占位。
