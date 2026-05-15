@@ -14,7 +14,7 @@ Fuck_Bing_Search_Ad 是一个用于过滤 Bing 搜索结果广告的 Tampermonke
 项目仓库：
 ```text
 https://github.com/CX330-YCH/Fuck_Bing_Search_Ad
-
+```text
 ⸻
 
 AI 项目说明
