@@ -90,7 +90,7 @@ https://bing.com/search*
 
 安装 Tampermonkey / 油猴后，打开下面的 Raw 地址：
 
-- Github 国际：[Fuck_Bing_Search_Ad.user.js](https://raw.githubusercontent.com/CX330-YCH/Fuck_Bing_Search_Ad/main/Fuck_Bing_Search_Ad.user.js)
+- Github：[Fuck_Bing_Search_Ad.user.js](https://raw.githubusercontent.com/CX330-YCH/Fuck_Bing_Search_Ad/main/Fuck_Bing_Search_Ad.user.js)
 
 浏览器会唤起用户脚本管理器，确认安装即可。
 
