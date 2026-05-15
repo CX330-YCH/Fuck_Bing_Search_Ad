@@ -1,0 +1,1 @@
+# Fuck_Bing_Search_Ad
