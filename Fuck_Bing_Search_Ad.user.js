@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Fuck Bing Search AD
-// @name:zh-CN   Fuck Bing Search AD - Bing 搜索广告过滤
+// @name         Fuck Bing Search AD-去他妈的必应搜索广告
+// @name:zh-CN   去他妈的必应搜索广告-Fuck Bing Search AD
 // @namespace    https://github.com/CX330-YCH/Fuck_Bing_Search_Ad
-// @version      1.0.1
+// @version      1.0.3
 // @description  Remove Bing search ads, fake ad blocks, MSAN ads, and leftover separators.
 // @description:zh-CN 删除 Bing 搜索广告、伪装广告、MSAN 广告和广告残留分隔线。
 // @author       CX330-YCH
